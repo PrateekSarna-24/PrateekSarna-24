@@ -29,8 +29,4 @@
 <a href="https://www.leetcode.com/prateek_sarna_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateek_sarna_24" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateeksarna-24" alt="prateeksarna-24" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateeksarna-24&show_icons=true&locale=en&layout=compact" alt="prateeksarna-24" /></p>
-
 
